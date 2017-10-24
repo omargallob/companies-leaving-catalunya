@@ -1,53 +1,55 @@
-companie name;old province;new province
-Abertis;Barcelona;Madrid 
-Aguas de Barcelona;Barcelona;Madrid 
-Applus;Barcelona;Madrid 
-Arquia banca;Cataluña;Madrid
-AXA Pensiones;Barcelona;Bilbao
-AXA Vida;Barcelona;Bilbao
-Ballenoil;Cataluña;Madrid
-Banco Mediolanum;Cataluña;Valencia
-Banco Sabadell;Cataluña;Alicante
-Bimbo;Cataluña;Madrid 
-Bruixa d'Or; lleida;Navarra && Madrid
-CaixaBank;Barcelona;Valencia
-CaixaBank Asset Management;Barcelona;Madrid 
-Catalana Occidente; Barcelona (Sant Cugat del Valles);Madrid
-cellnex;Barcelona;Madrid 
-Cementos Molins;Cataluña;Madrid
-Cemoi Electricite;Cataluña;Alicante
-Cervezas San Miguel;Cataluña;Malaga
-Codorniu; Barcelona (Sant Sadurní d'Anoia);La Rioja (Haro)
-Colonial;Cataluña;Madrid 
-Copasa;Barcelona;Santiago de compostela
-Criteria Caixa;Cataluña;Palma de mallorca
-Dogi;Barcelona;Madrid 
-DVD Dental;Cataluña;Madrid 
-edream odigeo;Cataluña;Madrid 
-Eurona;Barcelona;Madrid
-Gas Natural Fenosa;Barcelona;Madrid 
-Gesiuris;Cataluña;Madrid
-Gestora de Fondos EDM;Cataluña;Madrid
-Grupo Planeta;Barcelona;Madrid 
-Grupo Zurich;Barcelona;Madrid 
-GVC Gaesco;Barcelona;Madrid 
-Idilia Foods;Barcelona;Valencia
-indukern;Cataluña;Madrid 
-Industrias Ponsa;Cataluña;Madrid
-Klockner;Cataluña;Madrid
-Laboratorios Ordesa;Barcelona;Huesca
-lleida.net;barcelona;Madrid
-MGS Seguros;Cataluña;Zaragoza
-MRW;Barcelona;Valencia
-Oryzon;barcelona;Madrid
-Pangaea Oncology;Barcelona;Zaragoza
-Pastas Gallo;Cataluña;Cordoba
-Proclinic Expert;Cataluña;Zaragoza
-Sanantur;Cataluña;Madrid
-SegurCaixa Adeslas;Barcelona;Madrid 
-Service Point;Barcelona;Madrid 
-Servihabitat;Cataluña;Madrid 
-Torraspapel;Barcelona;Madrid 
-Trea Asset Management;Cataluña;Madrid 
-VidaCaixa;Barcelona;Madrid 
-Volotea;Cataluña;Asturias
+companie name;old province;new province;Source
+Abertis;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Aguas de Barcelona;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Applus;Barcelona;Madrid ;
+Arquia banca;Barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+AXA Pensiones;Barcelona;Bilbao;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+AXA Vida;Barcelona;Bilbao;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Ballenoil;Barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Banco Mediolanum;Barcelona;Valencia;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Banco Sabadell;Barcelona;Alicante;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Bimbo;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Bruixa d'Or;Lleida;Navarra && Madrid;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+CaixaBank;Barcelona;Valencia;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+CaixaBank Asset Management;Barcelona;Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Catalana Occidente;Barcelona (Sant Cugat del Valles);Madrid;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+cellnex;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Cementos Molins;Barcelona (Sant Vicenç dels Horts);Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Cemoi Electricite;Barcelona;Alicante;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Cervezas San Miguel;Barcelona;Malaga;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Codorniu;Barcelona (Sant Sadurní d'Anoia);La Rioja (Haro);http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Colonial;Barcelona;Madrid ;
+Copasa;Barcelona;Santiago de compostela;
+Criteria Caixa;Barcelona;Palma de mallorca;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Dogi;Barcelona;Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+DVD Dental;Barcelona;Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+edream odigeo;Barcelona;Madrid ;
+Eurona;Barcelona;Madrid;
+Gas Natural Fenosa;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Gesiuris;Barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Gestora de Fondos EDM;Barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Grupo indukern;Barcelona (El Prat de Llobrega);Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Grupo Planeta;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Grupo Zurich;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html, https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+GVC Gaesco;Barcelona;Madrid ;
+Idilia Foods;Barcelona;Valencia;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Industrias Ponsa;Barcelona (Manresa);Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Klockner;Barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Laboratorios Ordesa;Barcelona;Huesca;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html, https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+lleida.net;barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+MGS Seguros;Barcelona;Zaragoza;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html, https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+MRW;Barcelona;Valencia;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Naturhouse;Barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Oryzon;barcelona;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Pangaea Oncology;Barcelona;Zaragoza;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html, https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Pastas Gallo;Barcelona (Granollers);Cordoba;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html
+Proclinic Expert;Barcelona (L´Hospitalet);Zaragoza;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Sanantur;Tarragona (Reus);Malaga;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+SegurCaixa Adeslas;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html, https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Service Point;Barcelona;Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Servihabitat;Cataluña;Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+TAB Spain;Cataluña;Madrid;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Torraspapel;Barcelona;Madrid ;http://www.laopiniondemurcia.es/economia/2017/10/06/listado-empresas-abandonan-cataluna/865322.html, https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Trea Asset Management;Cataluña;Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+VidaCaixa;Barcelona;Madrid ;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
+Volotea;Barcelona;Asturias;https://elpais.com/economia/2017/10/09/actualidad/1507570625_950581.html
